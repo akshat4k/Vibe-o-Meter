@@ -1,6 +1,24 @@
-﻿# Vibe-o-Meter
-✨ Vibe Check Quiz App
-Output-
+🌈 Vibe-o-Meter
+✨ A Fun & Interactive Vibe Check Quiz App
+🧠 About the Project
+Vibe-o-Meter is a playful and engaging web quiz that helps users discover their current "vibe" through a series of quirky and light-hearted questions.
+
+Are you radiating:
+
+🧘 Zen Master
+
+😎 Chill Vibes
+
+🔥 Chaos Gremlin
+
+🎬 Main Character Energy?
+
+This app reveals it all with a personalized result, fun description, and a matching visual flair.
+
+Built using modern technologies like React, TypeScript, Tailwind CSS, and shadcn-ui, the app is fast, fully responsive, and smooth across all devices. It’s designed for instant engagement and social sharing — perfect for group fun, team-building moments, or just checking your vibe for the day.
+
+📸 Output Preview
+
 ![Image](https://github.com/user-attachments/assets/5817014c-0465-41c5-b268-8d10dc7ab028)
 
 ![Image](https://github.com/user-attachments/assets/244007b5-85c6-4a45-8ef1-ce47d9fbbb0f)
@@ -14,9 +32,3 @@ Output-
 ![Image](https://github.com/user-attachments/assets/5a78911d-a685-48c3-8ceb-6141622365ac)
 
 ![Image](https://github.com/user-attachments/assets/6d61eaa0-c185-4959-8ce5-1da7f6e810b5)
-🧠 About the Project
-The Vibe Check Quiz App is a playful, interactive web application that helps users discover their current "vibe" based on a series of quirky and fun questions. Designed with a focus on quick engagement, shareability, and aesthetic appeal, the app delivers personalized results like “Chill Zen,” “Main Character Energy,” or “Chaos Gremlin.”
-
-The quiz experience is crafted to be lightweight and entertaining, encouraging users to share their vibe with friends. Each result comes with a unique description and visual flair to match the vibe detected from the user's responses.
-
-This project is fully responsive and built with modern tools including React, TypeScript, Tailwind CSS, and shadcn-ui, ensuring a smooth UX across devices. It's ideal for social sharing and quick entertainment, making it perfect for viral reach or as a fun team-building activity.
