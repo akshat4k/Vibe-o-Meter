@@ -1,4 +1,4 @@
-🌈 Vibe-o-Meter
+# 🌈 Vibe-o-Meter
 ✨ A Fun & Interactive Vibe Check Quiz App
 🧠 About the Project
 Vibe-o-Meter is a playful and engaging web quiz that helps users discover their current "vibe" through a series of quirky and light-hearted questions.
